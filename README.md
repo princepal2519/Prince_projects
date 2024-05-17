@@ -1,2 +1,2 @@
 # Prince_projects
-author - Prince Pal
+Author - Prince Pal
